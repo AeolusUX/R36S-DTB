@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # R36S-DTB
+=======
+# R36S-Device Tree Blob
+>>>>>>> ed90a81edd99775714acaa29e40f5951335a0fff
 RetroBox Console / Game Station / Game Console R35S/R36S/PowKiddy RGB20S with Functional Function (FN) Button
 ---
 **[AmberELEC](https://github.com/AmberELEC/AmberELEC/releases) and [ArkOS](https://github.com/christianhaitian/arkos/wiki#download-links):**
