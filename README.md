@@ -6,7 +6,7 @@ RetroBox Console / Game Station / Game Console R35S/R36S/PowKiddy RGB20S with Fu
 - You'd have to edit the boot.ini file on your boot folder or use my provided boot.ini file.
 ---
 > [!NOTE]  
->Newer R33S/R35S/R36S consoles are coming with 3 new updated screens. If your brand new R33S/R35S/R36S doesn't work with the usual DTB files look at the new screens folder and try which one works for you.
+>Newer R33S/R35S/R36S consoles are coming with 4 new updated screens. If your brand new R33S/R35S/R36S doesn't work with the usual DTB files look at the new screens folder and try which one works for you.
 >
 >
 This work is licensed under CC BY-NC-ND 4.0. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-nd/4.0/
