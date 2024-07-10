@@ -1,5 +1,5 @@
 # R36S-Device Tree Blob
-RetroBox Console / Game Station / Game Console R35S/R36S/PowKiddy RGB20S with Functional Function (FN) Button
+RetroBox Console / Game Station / Game Console R35S/R36S/R33S + R30S (O30S) with Functional Function (FN) Button
 ---
 **[AmberELEC](https://github.com/AmberELEC/AmberELEC/releases) and [ArkOS](https://github.com/christianhaitian/arkos/wiki#download-links):**
 - rk3326-r35s-linux.dtb is the file with the working FN Button
