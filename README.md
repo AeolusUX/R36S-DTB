@@ -10,3 +10,6 @@ RetroBox Console / Game Station / Game Console R35S/R36S/R33S + R30S (O30S) with
 >
 >
 This work is licensed under CC BY-NC-ND 4.0. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-nd/4.0/
+# Donate
+🎮☕ Loving my work? Let’s power up together – buy me a coffee! 🕹️✨  
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R5R7TMKNX)
